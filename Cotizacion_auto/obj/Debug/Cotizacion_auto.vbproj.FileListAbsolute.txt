@@ -1,0 +1,16 @@
+C:\Users\Jimmy\source\repos\Cotizacion_auto\Cotizacion_auto\bin\Debug\Cotizacion_auto.exe.config
+C:\Users\Jimmy\source\repos\Cotizacion_auto\Cotizacion_auto\bin\Debug\Cotizacion_auto.exe
+C:\Users\Jimmy\source\repos\Cotizacion_auto\Cotizacion_auto\bin\Debug\Cotizacion_auto.pdb
+C:\Users\Jimmy\source\repos\Cotizacion_auto\Cotizacion_auto\bin\Debug\Cotizacion_auto.xml
+C:\Users\Jimmy\source\repos\Cotizacion_auto\Cotizacion_auto\obj\Debug\Cotizacion_auto.vbprojAssemblyReference.cache
+C:\Users\Jimmy\source\repos\Cotizacion_auto\Cotizacion_auto\obj\Debug\Cotizacion_auto.Form1.resources
+C:\Users\Jimmy\source\repos\Cotizacion_auto\Cotizacion_auto\obj\Debug\Cotizacion_auto.Resources.resources
+C:\Users\Jimmy\source\repos\Cotizacion_auto\Cotizacion_auto\obj\Debug\Cotizacion_auto.vbproj.GenerateResource.cache
+C:\Users\Jimmy\source\repos\Cotizacion_auto\Cotizacion_auto\obj\Debug\Cotizacion_auto.vbproj.CoreCompileInputs.cache
+C:\Users\Jimmy\source\repos\Cotizacion_auto\Cotizacion_auto\obj\Debug\Cotizacion_auto.exe
+C:\Users\Jimmy\source\repos\Cotizacion_auto\Cotizacion_auto\obj\Debug\Cotizacion_auto.xml
+C:\Users\Jimmy\source\repos\Cotizacion_auto\Cotizacion_auto\obj\Debug\Cotizacion_auto.pdb
+D:\CETEC\Cotizacion_auto\Cotizacion_auto\obj\Debug\Cotizacion_auto.vbprojAssemblyReference.cache
+D:\CETEC\Cotizacion_auto\Cotizacion_auto\obj\Debug\Cotizacion_auto.exe
+D:\CETEC\Cotizacion_auto\Cotizacion_auto\obj\Debug\Cotizacion_auto.xml
+D:\CETEC\Cotizacion_auto\Cotizacion_auto\obj\Debug\Cotizacion_auto.pdb
